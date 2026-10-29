@@ -12,41 +12,51 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Reniva =====
-[1]Reniva      |10:25:25 | 28-10-2026| login OK @reniivaa | score=2290 rank=3427
-[1]Reniva      |10:25:25 | 28-10-2026| serverTime=2026-10-28T10:25:25.000Z local=2026-10-28T10:25:25.829Z
+[1]Reniva      |10:45:18 | 29-10-2026| login OK @reniivaa | score=2340 rank=3414
+[1]Reniva      |10:45:18 | 29-10-2026| serverTime=2026-10-29T10:45:18.000Z local=2026-10-29T10:45:18.803Z
 --> [1]Reniva menjalankan: Claim Daily
-[1]Reniva      |10:25:26 | 28-10-2026| daily: OK +10 poin score=2300
---> [1]Reniva menjalankan: Auto All Tasks (4 pending)
-[1]Reniva      |10:25:28 | 28-10-2026| [1/4] 87ae8b6e (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"87ae8b6e-5160-4f19-8e5e-b9c0f414d46c","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211506845698718 | proof=https://x.com/reniivaa/status/2115389040051020900
-[1]Reniva      |10:25:28 | 28-10-2026| delay 10s...
-[1]Reniva      |10:25:39 | 28-10-2026| [2/4] 1c315c65 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"87ae8b6e-5160-4f19-8e5e-b9c0f414d46c","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211506845698718 | proof=https://x.com/reniivaa/status/2115388999980680878
-[1]Reniva      |10:25:39 | 28-10-2026| delay 10s...
-[1]Reniva      |10:25:51 | 28-10-2026| [3/4] 3f7b08ea (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"87ae8b6e-5160-4f19-8e5e-b9c0f414d46c","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211506845698718 | proof=https://x.com/reniivaa/status/2115389064805321035
-[1]Reniva      |10:25:51 | 28-10-2026| delay 10s...
-[1]Reniva      |10:26:02 | 28-10-2026| [4/4] 84429acd (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"87ae8b6e-5160-4f19-8e5e-b9c0f414d46c","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211506845698718 | proof=https://x.com/reniivaa/status/2115389101154217662
-[1]Reniva      |10:26:02 | 28-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Reniva      |10:26:04 | 28-10-2026| [1/1] 87ae8b6e (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"87ae8b6e-5160-4f19-8e5e-b9c0f414d46c","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2115068456987189 | proof=https://x.com/reniivaa/status/2115389136606710640
+[1]Reniva      |10:45:20 | 29-10-2026| daily: OK +10 poin score=2350
+--> [1]Reniva menjalankan: Auto All Tasks (9 pending)
+[1]Reniva      |10:45:22 | 29-10-2026| [1/9] 4b02b48f (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"4b02b48f-7e1e-4e76-a90a-dac658a60cf3","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211572880657321 | proof=https://x.com/reniivaa/status/2115756447358135132
+[1]Reniva      |10:45:22 | 29-10-2026| delay 10s...
+[1]Reniva      |10:45:34 | 29-10-2026| [2/9] 5c713c28 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"4b02b48f-7e1e-4e76-a90a-dac658a60cf3","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211572880657321 | proof=https://x.com/reniivaa/status/2115756304556642739
+[1]Reniva      |10:45:34 | 29-10-2026| delay 10s...
+[1]Reniva      |10:45:47 | 29-10-2026| [3/9] a4b0b050 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"4b02b48f-7e1e-4e76-a90a-dac658a60cf3","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211572880657321 | proof=https://x.com/reniivaa/status/2115756522971430987
+[1]Reniva      |10:45:47 | 29-10-2026| delay 10s...
+[1]Reniva      |10:45:59 | 29-10-2026| [4/9] 6fb148bd (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"4b02b48f-7e1e-4e76-a90a-dac658a60cf3","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211572880657321 | proof=https://x.com/reniivaa/status/2115756560096845340
+[1]Reniva      |10:45:59 | 29-10-2026| delay 10s...
+[1]Reniva      |10:46:11 | 29-10-2026| [5/9] 3a2ebc56 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"4b02b48f-7e1e-4e76-a90a-dac658a60cf3","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211572880657321 | proof=https://x.com/reniivaa/status/2115756795649253933
+[1]Reniva      |10:46:11 | 29-10-2026| delay 10s...
+[1]Reniva      |10:46:23 | 29-10-2026| [6/9] 21a80281 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"4b02b48f-7e1e-4e76-a90a-dac658a60cf3","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211572880657321 | proof=https://x.com/reniivaa/status/2115756763752642725
+[1]Reniva      |10:46:23 | 29-10-2026| delay 10s...
+[1]Reniva      |10:46:35 | 29-10-2026| [7/9] 623aac60 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"4b02b48f-7e1e-4e76-a90a-dac658a60cf3","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211572880657321 | proof=https://x.com/reniivaa/status/2115756608588183583
+[1]Reniva      |10:46:35 | 29-10-2026| delay 10s...
+[1]Reniva      |10:46:47 | 29-10-2026| [8/9] 8545d68c (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"4b02b48f-7e1e-4e76-a90a-dac658a60cf3","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211572880657321 | proof=https://x.com/reniivaa/status/2115756810067715745
+[1]Reniva      |10:46:47 | 29-10-2026| delay 10s...
+[1]Reniva      |10:47:00 | 29-10-2026| [9/9] 125a0329 (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"4b02b48f-7e1e-4e76-a90a-dac658a60cf3","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211572880657321
+[1]Reniva      |10:47:00 | 29-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Reniva      |10:47:01 | 29-10-2026| [1/1] 4b02b48f (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"4b02b48f-7e1e-4e76-a90a-dac658a60cf3","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2115728806573219 | proof=https://x.com/reniivaa/status/2115756673232935998
 --> [1]Reniva menjalankan: Watch Anime
-[1]Reniva      |10:26:04 | 28-10-2026| watch: semua video sudah completed
+[1]Reniva      |10:47:02 | 29-10-2026| watch: semua video sudah completed
 --> [1]Reniva menjalankan: Read Article
-[1]Reniva      |10:26:06 | 28-10-2026| news: 30/30 artikel selesai dibaca
-[1]Reniva      |10:26:06 | 28-10-2026| mint eligibility: {"userId":"1723087838496141312","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@renivaliviana","status":"submitted","revision":"7191e827-e523-44fb-b117-c2efddf4
-[1]Reniva      |10:26:06 | 28-10-2026| news: semua artikel sudah dibaca
+[1]Reniva      |10:47:04 | 29-10-2026| news: 30/30 artikel selesai dibaca
+[1]Reniva      |10:47:05 | 29-10-2026| mint eligibility: {"userId":"1723087838496141312","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@renivaliviana","status":"submitted","revision":"7191e827-e523-44fb-b117-c2efddf4
+[1]Reniva      |10:47:05 | 29-10-2026| news: semua artikel sudah dibaca
 --> [1]Reniva menjalankan: Quiz Anime
 --> [1]Reniva menjalankan: Music Missions (realtime, bisa lama!)
-[1]Reniva      |10:26:08 | 28-10-2026| music: kedua misi sudah tercapai, stop
-[1]Reniva      |10:26:08 | 28-10-2026| mission music-listens-10: sudah diklaim
-[1]Reniva      |10:26:08 | 28-10-2026| mission music-minutes-30: sudah diklaim
-[1]Reniva      |10:26:08 | 28-10-2026| mission anime-completed-3: sudah diklaim
+[1]Reniva      |10:47:08 | 29-10-2026| music: kedua misi sudah tercapai, stop
+[1]Reniva      |10:47:09 | 29-10-2026| mission music-listens-10: sudah diklaim
+[1]Reniva      |10:47:09 | 29-10-2026| mission music-minutes-30: sudah diklaim
+[1]Reniva      |10:47:09 | 29-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Reniva menjalankan: Claim Missions
-[1]Reniva      |10:26:09 | 28-10-2026| mission music-listens-10: sudah diklaim
-[1]Reniva      |10:26:09 | 28-10-2026| mission music-minutes-30: sudah diklaim
-[1]Reniva      |10:26:09 | 28-10-2026| mission anime-completed-3: sudah diklaim
+[1]Reniva      |10:47:10 | 29-10-2026| mission music-listens-10: sudah diklaim
+[1]Reniva      |10:47:10 | 29-10-2026| mission music-minutes-30: sudah diklaim
+[1]Reniva      |10:47:10 | 29-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Reniva menjalankan: Check Eligibility
 
 --- eligibility [1]Reniva ---
-  @reniivaa | score=2290 rank=3427
-  tasks    [###############-----] 11/15
+  @reniivaa | score=2340 rank=3414
+  tasks    [######--------------] 4/13
   mission  music-listens-10:      claimed
   mission  music-minutes-30:      claimed
   mission  anime-completed-3:     claimed
@@ -57,15 +67,14 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
   mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Reniva menjalankan: Read Manga
-[1]Reniva      |10:26:12 | 28-10-2026| manga: 0/13 chapter belum completed
+[1]Reniva      |10:47:14 | 29-10-2026| manga: 0/13 chapter belum completed
 --> [1]Reniva menjalankan: Get Gift
-[1]Reniva      |10:26:12 | 28-10-2026| gift: 1/5 belum diterima
-[1]Reniva      |10:26:13 | 28-10-2026| gift [1/1] Oshii animated GIFs: OK
+[1]Reniva      |10:47:15 | 29-10-2026| gift: 0/5 belum diterima
 --> [1]Reniva menjalankan: Setup Profile
-[1]Reniva      |10:26:15 | 28-10-2026| profile: bio="https://x.com/reniivaa" fav=mony rewardAt=1791688981
-[1]Reniva      |10:26:15 | 28-10-2026| profile: bonus sudah diklaim, skip
+[1]Reniva      |10:47:15 | 29-10-2026| profile: bio="https://x.com/reniivaa" fav=mony rewardAt=1791688981
+[1]Reniva      |10:47:15 | 29-10-2026| profile: bonus sudah diklaim, skip
 --> [1]Reniva menjalankan: Bind Wallet
-[1]Reniva      |10:26:16 | 28-10-2026| wallet: sudah terikat EfnNZAVYbr... (solana)
+[1]Reniva      |10:47:16 | 29-10-2026| wallet: sudah terikat EfnNZAVYbr... (solana)
 
 == RINGKASAN ==
-- Reniva: daily=claimed | tasks OK 5/5 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 1/5 diterima | profile - | wallet bound | mint req=false open=false
+- Reniva: daily=claimed | tasks OK 10/10 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/5 diterima | profile - | wallet bound | mint req=false open=false
